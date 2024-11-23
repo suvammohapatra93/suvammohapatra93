@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Suvam Mohapatra</h1>
 <h3 align="center">A passionate MERN stack developer with expertise in both frontend and backend development. I enjoy building scalable web applications and solving real-world problems with efficient and clean code. As a competitive programmer, I thrive in challenging environments and consistently push myself to improve. Currently, I hold a CGPA of 9.3 up to my second year (3rd semester), showcasing my dedication to academics and technology alike.</h3>
 
+<h3 align="left">Competitive Programming Profiles:</h3>
+<p align="left">
+<a href="https://www.codechef.com/users/suvammohapatra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suvammohapatra" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/suvammohapatra92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suvammohapatra92" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/suvam01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="suvam01" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/suvam_mohapatra9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suvam_mohapatra9" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/suvammohap84mn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suvammohap84mn" height="30" width="40" /></a>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvammohapatra93&label=Profile%20views&color=0e75b6&style=flat" alt="suvammohapatra93" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suvammohapatra93" alt="suvammohapatra93" /></a> </p>
