@@ -8,7 +8,7 @@
 <a href="https://codeforces.com/profile/suvam01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="suvam01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suvam_mohapatra9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suvam_mohapatra9" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/suvammohap84mn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suvammohap84mn" height="30" width="40" /></a>
-<a href="https://atcoder.jp/users/Suvam003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/at-coder.svg" alt="suvammohap84mn" height="30" width="40" /></a>
+<a href="https://atcoder.jp/users/Suvam003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/atcoder.svg" alt="Suvam003" height="30" width="40" />AtCoder</a>
 
 </p>
 
